@@ -8,7 +8,7 @@ xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/
 
   <filter>
   <filter-name>struts2</filter-name>
-  <filter-class>org.kapache.struts2.dispatcher.ng.filter.StrutsPrepareAndExecuteFilter</filter-class>
+  <filter-class>org.apache.struts2.dispatcher.ng.filter.StrutsPrepareAndExecuteFilter</filter-class>
   </filter>
   <filter-mapping>
   	<filter-name>struts2</filter-name>
